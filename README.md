@@ -2,7 +2,6 @@
 
 ### Cybersecurity  Analyst | Ethical Hacker | Mentor | Vulnerability Assessment &
  Penetration Testing (VAPT).
-> "Done is better than perfect. Constantly learning, testing, and securing systems."
 
 ---
 
