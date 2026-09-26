@@ -29,7 +29,8 @@ Beyond my technical expertise, I am driven by a mission to build resilient human
 - **CCNA** (Cisco Certified Network Associate)CIT
 - **MTCNA** (MikroTik Certified Network Associate)CIT
 - *Advent of Cyber 2025** - TryHackMe (Completed 24 Cyber Security Challenges |View Certificate PDF]https://drive.google.com/file/d/1m-JwZ4uz9oWZrZaayvxTJnyLLKRjnvNA/view?usp=sharing
-* **Cybersecurity Career Starter** --  https://drive.google.com/file/d/1NEmSN8NYC185nZwEiQByh44tJvQAjIA2/view?usp=sharing
+**Cybersecurity Career Starter** --  https://drive.google.com/file/d/1NEmSN8NYC185nZwEiQByh44tJvQAjIA2/view?usp=sharing
+**Introduction to Cybersecurity** -- https://drive.google.com/file/d/1nzcQ47oIhnGIr2m_wRpsA7jUaFLCReyJ/view?usp=drive_link
 
 ---
 
